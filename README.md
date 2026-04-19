@@ -21,6 +21,9 @@ GitHub → Webhook → Jenkins Server → SSH → Target Server → Node.js App 
 * PM2
 * AWS EC2
 
+## Jenkins Plugin Used
+- Pipeline plugin (for creating CI/CD pipelines)
+- GitHub Integration Plugin (for webhook repository integration)
 ## Step 1: Create GitHub Repository
 
 * Create a repository on GitHub:
